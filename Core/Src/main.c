@@ -47,6 +47,7 @@ ADC_HandleTypeDef hadc1;
 	float outputvoltgae;
 
 /* USER CODE END PV */
+//temp
 
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
